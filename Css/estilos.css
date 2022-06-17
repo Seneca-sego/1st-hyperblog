@@ -2,7 +2,6 @@ body
 {
     text-align: center;
     font-family: arial;
-    font-size: 16px;
     color: #333;
    
 }
@@ -17,4 +16,13 @@ body
 #container h1
 {
     font-size: 20px;
+}
+
+#cabecera{
+    background: #33a;
+    box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.75);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
 }
