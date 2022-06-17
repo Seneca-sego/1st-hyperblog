@@ -1,0 +1,32 @@
+[1mdiff --git a/Css/estilos.css b/Css/estilos.css[m
+[1mnew file mode 100644[m
+[1mindex 0000000..73260b5[m
+[1m--- /dev/null[m
+[1m+++ b/Css/estilos.css[m
+[36m@@ -0,0 +1,6 @@[m
+[32m+[m[32mbody[m
+[32m+[m[32m{[m
+[32m+[m[32m    text-align: center;[m
+[32m+[m[32m    font-family: arial;[m
+[32m+[m[32m    color: deeppink;[m
+[32m+[m[32m}[m
+\ No newline at end of file[m
+[1mdiff --git a/blogpost.html b/blogpost.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5e366ef[m
+[1m--- /dev/null[m
+[1m+++ b/blogpost.html[m
+[36m@@ -0,0 +1,12 @@[m
+[32m+[m[32m<html>[m
+[32m+[m[32m    <head>[m
+[32m+[m[32m            <TITLe>Este es mi blog</TITLe>[m
+[32m+[m[32m            <link rel="stylesheet" href="css/estilos.css">[m
+[32m+[m
+[32m+[m[32m    </head>[m
+[32m+[m[32m    <body>[m
+[32m+[m[32m        <h1>Aqui habrá un blog</h1>[m
+[32m+[m[32m        <p>Parrafo inicial</p->[m
+[32m+[m
+[32m+[m[32m    </body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
